@@ -15,7 +15,7 @@
 <!-- ![](profile-green-animate.svg) -->
 
 <!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg))
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Bottom Down SVG -->
 ![](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg)
