@@ -7,8 +7,8 @@
  <img src="https://visitor-badge.laobi.icu/badge?page_id=SannketNikam.SannketNikam" alt="visitors"/>
 <!-- </p> -->
 
-[![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SannketNikam&count_private=true&show_icons=true&theme=calm)](https://github.com/SannketNikam/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SannketNikam&layout=compact&theme=calm)](https://github.com/SannketNikam/github-readme-stats)
+[![Sanket's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SannketNikam&count_private=true&show_icons=true&theme=calm)](https://github.com/SannketNikam/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SannketNikam&layout=compact&theme=calm)](https://github.com/SannketNikam/github-readme-stats)
 
 ### 📈 GitHub Activity Graph:
 [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SannketNikam&layout=compact&theme=github-compact)](https://github.com/SannketNikam/github-readme-activity-graph)
