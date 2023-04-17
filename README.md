@@ -1,8 +1,6 @@
 <div align="center">
  
 # Hey! I'm Sanket Nikam. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<!-- <b>Socials 💻</b> -->
  
 [![GitHub SannketNikam](https://img.shields.io/github/followers/SannketNikam?label=follow&style=social)](https://github.com/SannketNikam)
 [![Linkedin: Sanket Nikam](https://img.shields.io/badge/-SannketNikam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SannketNikam/)](https://www.linkedin.com/in/SannketNikam/)
@@ -17,15 +15,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sannketnikam&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SannketNikam&layout=compact&theme=calm)](https://github.com/SannketNikam/github-readme-stats) -->
-
 ### 📈 GitHub Activity Graph:
 [![SannketNikam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SannketNikam&layout=compact&theme=github-compact)](https://github.com/SannketNikam/github-readme-activity-graph)
 
-<!--   grid-snake -->
-<!-- ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
-
-<!-- Bottom Down SVG -->
-<!-- ![](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg) -->
- 
 </div>
