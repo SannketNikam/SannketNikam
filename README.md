@@ -16,7 +16,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sannketnikam&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-### 📈 GitHub Activity Graph:
-[![SannketNikam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SannketNikam&layout=compact&theme=github-compact)](https://github.com/SannketNikam/github-readme-activity-graph)
+<!-- ### 📈 GitHub Activity Graph:
+[![SannketNikam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SannketNikam&layout=compact&theme=github-compact)](https://github.com/SannketNikam/github-readme-activity-graph) -->
 
 </div>
