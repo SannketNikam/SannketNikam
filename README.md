@@ -6,7 +6,9 @@
 [![Linkedin: Sanket Nikam](https://img.shields.io/badge/-SannketNikam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SannketNikam/)](https://www.linkedin.com/in/SannketNikam/)
 [![Twitter: Sanket Nikam](https://img.shields.io/twitter/follow/SannketNikam?style=social)](https://twitter.com/SannketNikam)
  ![](https://komarev.com/ghpvc/?username=SanketNikam)
- 
- </div>
+<br>
+### Hacktoberfest 2023 Holopin Badges ⬇️
 
 [![An image of @sannketnikam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sannketnikam)](https://holopin.io/@sannketnikam)
+
+</div>
