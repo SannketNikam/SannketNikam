@@ -7,8 +7,11 @@
 [![Twitter: Sanket Nikam](https://img.shields.io/twitter/follow/SannketNikam?style=social)](https://twitter.com/SannketNikam)
  ![](https://komarev.com/ghpvc/?username=SanketNikam)
 <br>
-### Hacktoberfest 2023 Holopin Badges ⬇️
+<details>
+  <summary>Hacktoberfest 2023 Holopin Badges ⬇️</summary>
+ 
+  [![An image of my Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sannketnikam)](https://holopin.io/@sannketnikam)
 
-[![An image of @sannketnikam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sannketnikam)](https://holopin.io/@sannketnikam)
+</details>
 
 </div>
